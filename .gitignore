@@ -72,3 +72,21 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+
+# Derived data
+*.pdb
+*.tmp
+*.log
+*.vs
+
+# Intermediate and build artifacts
+/Intermediate/
+/DerivedDataCache/
+/Saved/
+/Build/
+/Binaries/
+
+# Large editor-related files
+*.dds
+*.tga
+
