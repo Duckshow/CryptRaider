@@ -90,3 +90,9 @@ DerivedDataCache/*
 *.dds
 *.tga
 
+Content/MedievalDungeon/Particles
+Content/MedievalDungeon/Meshes
+Content/MedievalDungeon/Textures
+Content/MedievalDungeon/Materials
+Content/MedievalDungeon/Maps
+Content/MedievalDungeon/Blueprints
